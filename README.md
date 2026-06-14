@@ -36,7 +36,7 @@ RGPV, Bhopal, MP · 2009–2013
 
 - 📧 pooja.malviya57@gmail.com
 - 📍 Indore, Madhya Pradesh, India
-- 💼 Open to senior full-stack and JavaScript backend roles — remote or hybrid
+- 💼 Open to senior full-stack roles — remote or hybrid
 
 ---
 
